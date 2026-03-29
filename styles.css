@@ -1,0 +1,8 @@
+.site-title {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    color: black;
+    background-color: cadetblue;
+    padding: 24px 0;
+    border: 10px double gold;
+}
