@@ -6,3 +6,35 @@
     padding: 24px 0;
     border: 10px double gold;
 }
+
+.recipe-list {
+    list-style: none;
+    background-color: lavender;
+    border: 5px solid gold;
+    padding: 0;
+}
+
+.recipe-list li {
+    background-color: lightcoral;
+    border: 5px outset lightgreen;
+    margin: 8px;
+}
+
+.recipe-list li:hover {
+    background-color: coral;
+    border-color:greenyellow;
+}
+
+.recipe-list li:active {
+    background-color: palevioletred;
+    border: 5px inset green;
+}
+
+.recipe-list a {
+    display: block;
+    padding: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    text-align: center;
+    color: inherit;
+}
