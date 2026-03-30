@@ -1,5 +1,9 @@
-.site-title {
+body{
+    background-color: lightblue;
     font-family: 'Times New Roman', Times, serif;
+}
+
+.site-title {
     text-align: center;
     color: black;
     background-color: cadetblue;
@@ -9,7 +13,7 @@
 
 .recipe-list {
     list-style: none;
-    background-color: lavender;
+    background-color: lightblue;
     border: 5px solid gold;
     padding: 0;
 }
@@ -33,7 +37,6 @@
 .recipe-list a {
     display: block;
     padding: 20px;
-    font-family: 'Times New Roman', Times, serif;
     font-size: x-large;
     text-align: center;
     color: inherit;
